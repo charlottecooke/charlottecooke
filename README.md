@@ -1,7 +1,7 @@
 ### Oh hey! 😄
 
 My name is Charlotte and I am a ex-Physicist turned full stack software developer 🛰 🔬 💻
-currently working in Oxford in the UK 🇬🇧
+currently working in Amsterdam in the Netherlands 🇳🇱🇧
 
 I am interested in helping out on open source eco friendly projects or projects related to social justice / equality in my free time
 so hit me up if you have something like that you need help with! ☮️
