@@ -10,7 +10,7 @@ Tech that I use regularly and know a bit about:
 Typescript, NodeJS, VueJS, K8s, Docker, Terraform, lots of AWS things, Travis and Jenkins fun! SQL and a few other bits and bobs
 
 Looking to learn / in the process of learning about:
-Scala, Kafka, Swift, Machine Learning -> Natural Language Processing (just like everyone else under the sun 🌞)
+Java, ElasticStack, Machine Learning -> Natural Language Processing (just like everyone else under the sun 🌞)
 
 Aside from all the techy stuff, mental and physical wellbeing is important to me
 so I like to meditate, do yoga, run, learn languages, learn guitar, read and enjoy the good things in life,
