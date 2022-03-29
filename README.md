@@ -7,7 +7,7 @@ I am interested in helping out on open source eco friendly projects or projects 
 so hit me up if you have something like that you need help with! ☮️
 
 Tech that I use regularly and know a bit about:
-Typescript, NodeJS, VueJS, K8s, Docker, Terraform, lots of AWS things, Travis and Jenkins fun! SQL and a few other bits and bobs
+Typescript, NodeJS, React, K8s, Docker, Terraform, lots of AWS things, Travis and Jenkins fun! SQL and a few other bits and bobs
 
 Looking to learn / in the process of learning about:
 Java, ElasticStack, Machine Learning -> Natural Language Processing (just like everyone else under the sun 🌞)
